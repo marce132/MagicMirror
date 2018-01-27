@@ -1,0 +1,14 @@
+Manager\TempAndHumdityManager.class
+Weather\Daily.class
+RSSFeed\ReadTest.class
+Weather\Weather.class
+Weather\Data.class
+UI\MyUI$MyUIServlet.class
+RSSFeed\Feed.class
+UI\MyUI.class
+SensorData\TempAndHumidity.class
+Manager\WeatherManager.class
+Weather\Currently.class
+RSSFeed\RSSFeedParser.class
+UI\Series.class
+RSSFeed\FeedMessage.class
